@@ -1,8 +1,7 @@
+<img align="left" src="chemxsplained.png">
 
 # Chemxsplained 
-
-![](chemxsplained.png) 
-Code and artwork for the chemxsplained game
+:game_die: Artwork, content and code for the chemxsplained game*
 
 # Cards 
 under cards
