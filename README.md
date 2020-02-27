@@ -1,4 +1,4 @@
-<img align="left" src="chemxsplained.png">
+<img align="right" src="chemxsplained.png">
 
 # Chemxsplained 
 :game_die: Artwork, content and code for the chemxsplained game*
