@@ -1,5 +1,7 @@
 
 # Chemxsplained 
+
+![](chemxsplained.png) 
 Code and artwork for the chemxsplained game
 
 # Cards 
