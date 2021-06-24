@@ -1,0 +1,1 @@
+Note that the original .svg file was created in Inkscape. It does not always view well in other viewers (e.g. Gimp or web browsers), for example the image will have many missing elements. This folder now includes a second 'plain svg' and a PDF export. 
